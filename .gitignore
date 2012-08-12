@@ -13,3 +13,9 @@ build/*
 xcuserdata
 profile
 *.moved-aside
+DerivedData/*
+build/*
+.DS_Store
+.svn/*
+.svn
+
